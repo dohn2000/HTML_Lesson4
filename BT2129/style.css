@@ -1,0 +1,191 @@
+body{
+    margin: 0;         
+    padding: 0;         
+    border: 0;         
+    outline: 0;         
+    font-size: 100%;         
+    vertical-align: baseline;         
+    background: transparent ;
+    background-color: rgb(235,235,235);  
+}
+
+.nav_top{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    background-color: purple;
+    color: white;
+    
+}
+
+.nav_top .middle{
+    width: 50vw;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav_top .icon{
+    padding-left: 40px;
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    width: 20%;
+    
+}
+.nav_top input{
+    width: 400px;
+    padding-left: 10px;
+    margin: 5px;  
+    text-decoration: none;
+    color: white;
+}
+.nav_bot{
+    background-color: rgb(228,228,228);
+    margin: 0px;
+    padding: 0px;
+    color: black;
+}
+.nav_bot ul{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50vw;
+}
+.nav_bot ul li{
+    margin: 10px;
+    
+}
+   
+a{
+    text-decoration: none;
+}
+ .nav_sub{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 48vw;
+ }
+ .nav_sub .khung{
+    margin: 00px;
+    padding: 10px;
+    border: blue solid 1px;
+ }
+ .Info{
+    margin-left: auto;
+    margin-right: auto;
+    width: 55vw;
+    background-color: white;
+ }
+ .Info .title{
+    margin: 15px;
+    padding: 15px;
+    font-size: 20px;
+ }
+ 
+ .anh{
+    margin-left: 30px;
+    width: 170px;
+    height: 200px;
+    position: relative;
+ }
+ .anhbot1{
+    margin-left: 30px;
+    background-color: rgb(50,48,41); 
+    color: white;
+    position: absolute;
+    width: 170px;
+    top: 23rem;
+    text-align: center;
+}
+.anhbot2{
+    margin-left: 40px;
+    background-color: rgb(50,48,41); 
+    color: white;
+    position: absolute;
+    width: 170px;
+    top: 23rem;
+    left: 38.9rem;
+    text-align: center;
+}
+.anhbot3{
+    margin-left: 50px;
+    background-color: rgb(50,48,41); 
+    color: white;
+    position: absolute;
+    width: 170px;
+    top: 23rem;
+    left: 50.7rem;
+    text-align: center;
+}
+.anhbot4{
+    margin-left: 60px;
+    background-color: rgb(50,48,41); 
+    color: white;
+    position: absolute;
+    width: 170px;
+    top: 23rem;
+    left: 62.7rem;
+    text-align: center;
+}
+.anhbot5{
+    margin-left: 70px;
+    background-color: rgb(50,48,41); 
+    color: white;
+    position: absolute;
+    width: 170px;
+    top: 23rem;
+    left: 74.5rem;
+    text-align: center;
+}
+.anhbot6{
+    margin-left: 20px;
+    background-color: rgb(50,48,41); 
+    color: white;
+    position: absolute;
+    width: 170px;
+    top: 41.7rem;
+    left: 27.6rem;
+    text-align: center;
+}
+.anhbot7{
+    margin-left: 20px;
+    background-color: rgb(50,48,41); 
+    color: white;
+    position: absolute;
+    width: 170px;
+    top: 41.7rem;
+    left: 40.1rem;
+    text-align: center;
+}
+.anhbot8{
+    margin-left: 20px;
+    background-color: rgb(50,48,41); 
+    color: white;
+    position: absolute;
+    width: 170px;
+    top: 41.7rem;
+    left: 52.6rem;
+    text-align: center;
+}
+.anhbot9{
+    margin-left: 20px;
+    background-color: rgb(50,48,41); 
+    color: white;
+    position: absolute;
+    width: 170px;
+    top: 41.7rem;
+    left: 65.1rem;
+    text-align: center;
+}
+.text{
+    width: 170px;
+    margin-left: 29px;
+}
+.anhright{
+    width: 50px;
+    height: 50px;
+}
+
+

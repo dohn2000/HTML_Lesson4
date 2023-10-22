@@ -1,0 +1,74 @@
+.menu{
+    width: 100%;
+    display: flex;
+    background-color: green;
+    height: 41px;
+    margin-left: 30px;
+}
+.Anh{
+    width: 100%;
+    height: 150px
+}
+.heading{
+    padding: 0px;
+    margin-bottom: 0px;
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-top: 3%;
+}
+.menu .List{
+    background-color: green;
+    padding: 10px;
+    color: white;
+    font-size: large;
+    border-right: solid 2px white;
+    margin-left: 20px;
+    padding-right: 30px;
+}
+ .Listbut{
+    background-color: orange;
+    padding: 10px;
+    text-align: left;
+}
+.Noidung{
+    display: flex;
+}
+.Noidung .Noidung_left{
+    margin-left: 3.3%;
+    width: 60%;
+    
+}
+.Noidung .Noidung_right{
+    width: 40%;
+    margin-right: 5%;
+}
+.Listbut .but{
+    background-color: green;
+    color: white;
+}
+h1{
+    margin-left: 3%;
+}
+p{
+    margin-left: 3%; 
+}
+input{
+    width: 300px;
+}
+.Cap{
+    border: green  ;
+    color: white;
+    background-color: green;
+    padding: 5px;
+    width: 250px;
+    font-size: 20px;
+    border-bottom-right-radius: 20%;
+    border-top-left-radius: 20%;
+}
+li{
+    border-bottom: 1px solid grey;
+    width: 300px;
+    padding: 10px;
+    list-style-type: none;
+}
+
